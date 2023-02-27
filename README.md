@@ -5,3 +5,5 @@ I want to note that I use my own library gt.js so you won't be able to directly 
 
 **WASD** - Movement<br>
 **Mouse click** - Shooting
+
+**Try now** https://nudo-o.github.io/tank/
